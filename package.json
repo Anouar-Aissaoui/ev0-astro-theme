@@ -1,22 +1,22 @@
 {
   "name": "ev0-astro-theme",
   "version": "1.1.8",
-  "description": "Discover the latest in IPTV and streaming on our blog. Get tips, guides, and updates for an unmatched IPTV experience.",
+  "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "IPTV"
+    "name": "GNDX"
   },
-  "homepage": "https://blog.iptvservice.site",
+  "homepage": "https://ev0.gndx.dev",
   "contributors": [
     {
       "name": "Oscar Barajas @gndx",
       "email": "oscar@gndx.dev",
-      "url": "https://www.iptvservice.site"
+      "url": "https://gndx.dev"
     }
   ],
   "keywords": [
-    "IPTV",
+    "JavaScript",
     "Astro",
     "react",
     "tailwindcss",
