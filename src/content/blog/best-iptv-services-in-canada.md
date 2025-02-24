@@ -5,7 +5,7 @@ pubDate: '2024-01-19T01:22:34.123Z'
 heroImage: '/Best-IPTV-Service-Provider.png'
 categories: ['IPTV', 'Streaming Services', 'Canadian Tech']
 tags: ['iptv canada', 'canadian iptv service', 'streaming solutions', 'premium iptv', 'legal iptv canada']
-author: '"[\"Canadian Streaming Expert\"]"
+author: 'Canadian Streaming Expert'
 ---
 
 ## The Ultimate Guide to IPTV Services in Canada (2025 Updated)
