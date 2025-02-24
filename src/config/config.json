@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "IPTV Blog | Expert Tips, Reviews & Streaming Guides 2024",
+    "base_url": "https://blog.iptvservice.site",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
     "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "description": "Your ultimate resource for IPTV streaming solutions. Expert reviews, setup guides, troubleshooting tips, and industry updates to enhance your streaming experience.",
     "pageSize": 6
   },
   "features": {
@@ -15,12 +15,47 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "IPTV Blog Team",
+    "meta_description": "Comprehensive IPTV guides, streaming tips, service reviews, and industry insights. Learn how to optimize your IPTV experience with expert advice and latest updates.",
+    "meta_keywords": "IPTV streaming, IPTV setup guide, streaming solutions, IPTV troubleshooting, streaming service reviews, IPTV tips",
+    "og_type": "website",
+    "twitter_card": "summary_large_image",
+    "geo_region": "US",
+    "geo_placename": "United States",
+    "geo_position": "37.09024;-95.712891",
+    "ICBM": "37.09024, -95.712891"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "IPTV Blog",
+    "url": "https://blog.iptvservice.site",
+    "logo": "https://blog.iptvservice.site/logoLight.png",
+    "sameAs": [
+      "https://twitter.com/iptvblog",
+      "https://facebook.com/iptvblog"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressRegion": "US"
+    }
+  },
+  "seo": {
+    "canonicalUrl": "https://blog.iptvservice.site",
+    "alternateLanguages": [
+      {
+        "hrefLang": "en",
+        "href": "https://blog.iptvservice.site"
+      }
+    ],
+    "robotsTxt": "index, follow",
+    "structuredData": true,
+    "sitemapEnabled": true
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "IPTV Blog Team",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "bio": "We are a team of IPTV experts dedicated to providing you with comprehensive guides, honest reviews, and practical solutions for all your streaming needs."
   }
 }
