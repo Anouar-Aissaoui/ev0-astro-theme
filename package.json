@@ -54,13 +54,13 @@
     "eslint-plugin-astro": "0.33.1",
     "eslint-plugin-jsx-a11y": "6.8.0",
     "googleapis": "134.0.0",
+    "hast-util-raw": "^9.1.0",
     "prettier": "3.2.5",
     "prettier-plugin-astro": "0.13.0",
     "prettier-plugin-tailwindcss": "0.5.13",
     "tailwindcss": "3.4.3",
     "vite-plugin-pwa": "0.19.7",
-    "zwitch": "^2.0.4",
-    "hast-util-raw": "^9.0.1"
+    "zwitch": "^2.0.4"
   },
   "resolutions": {
     "astro/sharp": "0.33.1",
